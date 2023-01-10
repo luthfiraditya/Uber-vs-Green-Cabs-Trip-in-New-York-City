@@ -1,5 +1,12 @@
 *You can visit this project dashboard [here](https://public.tableau.com/views/UbervsGreenCabsTripinNewYorkCity/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
 
+Dataset
+[Uber](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city?select=uber-raw-data-janjune-15.csv) 
+
+[Green Taxi](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
+[New York Shape File](https://maps.princeton.edu/catalog/nyu-2451-36743)
+
 ## Introduction
 In August 2013, the New York City Taxi and Limousine Commission (NYCTLC) introduced Green Cabs in the New York City area aimed at residents outside Manhattan with the consideration that Yellow Cabs tend to be low in the area. Green Cabs themselves are designed to be ordered by passengers via telephone or online.
 In May 2011, Uber expanded to the New York City area. Research shows that Uber has replaced rides in Yellow Cabs in downtown NYC and supplemented rides with Green Cabs outside of NYC. As such, Green Cabs have faced fierce competition from Uber since its introduction, with Uber offering lower fares and easier accessibility through its mobile app.
